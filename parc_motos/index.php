@@ -37,3 +37,5 @@ if ($_GET["controller"] == 'security') {
 
 }
 ?>
+
+<p>Prout</p>
